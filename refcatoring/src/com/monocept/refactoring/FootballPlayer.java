@@ -84,7 +84,7 @@ public class FootballPlayer {
 		
 		FootballPlayer aronRodgers = FootballPlayer.createQB(108.0, 259);
 		
-		FootballPlayer calvinJohnson = FootballPlayer.createWR(11, 1964);
+		FootballPlayer alvinJohnson = FootballPlayer.createWR(11, 1964);
 		
 		FootballPlayer sebastianJanikowski = FootballPlayer.createKicker(31, 33.0);
 		
